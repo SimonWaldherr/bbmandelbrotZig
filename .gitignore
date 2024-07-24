@@ -1,0 +1,5 @@
+mandelbrot
+*.o
+*.pgm
+.zig-cache
+zig-out
